@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Discord OBS
+Comment=Discord OBS
+Exec=discord-obs
+Icon=discord-obs
+Terminal=false
+Type=Application
+Categories=Utility;TelephonyTools
+Keywords=Discord OBS
